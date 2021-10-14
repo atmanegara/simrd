@@ -1,0 +1,8 @@
+{
+  "name": "ePajak System",
+  "short_name": "ePajak",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795",
+  "DO_NOT_CHANGE_GCM_SENDER_ID": "228eb341-c72c-4ca1-9c93-a5420f09e8d8"
+}
